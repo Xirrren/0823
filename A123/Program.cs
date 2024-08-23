@@ -6,7 +6,7 @@ namespace A123
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("亂碼");
+            Console.WriteLine("84565");
         }
     }
 }
